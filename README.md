@@ -9,7 +9,7 @@ Besuchen Sie mich von der Küchentechnik Messe? Hier finden Sie meine [Kontaktin
 - [MixBocian.eu](https://mixbocian.eu)
 - [Portable Audio/Visual alarm](https://github.com/MikeStork/ProjektOIAK) ![Portable Audio/Visual alarm](https://github.com/MikeStork/ProjektOIAK/blob/main/20240610_145329.webp)
 - Mobile app that enables diabetes patients to calculate required insulin units for them (reedition coming soon)
-- Multilayer led strip simulating northern lights ![Northern lights project](https://github.com/MikeStork/images/blob/main/20240519_003631%20(1).mp4)
+- Multilayer led strip simulating northern lights ![Northern lights project](http://mikestork.pl/northern.mp4)
 ## Repos
 - [Comenteer](https://github.com/MikeStork/Commenteer)
 - [DietBuilder](https://github.com/MikeStork/DietBuilder)

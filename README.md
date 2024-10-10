@@ -1,5 +1,5 @@
 # Hi, I'm Michael. 
-I'm a Computer Engineering student based in Wroclaw and an cartified IT technician.
+I'm a Computer Engineering student based in Wroclaw and an certified IT technician & programmer.
 This page serves as a navigation through my repositories that I have maintained over the years of my study and volontary work.
 Please note, not all my projects have been uploaded here in respect of client preferences to remain source code private
 

@@ -6,7 +6,7 @@ Please note, not all my projects have been uploaded here in respect of client pr
 Besuchen Sie mich von der Küchentechnik Messe? Hier finden Sie meine [Kontaktinfo](https://mikestork.github.io)
 
 ## Projects (without repos)
-- [Diploma 215193 - Sugar level prediction system using LSTM](https://www.overleaf.com/read/pypdkdkgzvrf#7295f3)
+- [Diploma 215193 - Sugar level prediction system using LSTM(https://drive.google.com/file/d/1YrDo8iYxVIwp9jQxf2u3TDWUDwKSf8Bb/view?usp=drivesdk)
 - [MixBocian.eu](https://mixbocian.eu)
 - [Portable Audio/Visual alarm](https://github.com/MikeStork/ProjektOIAK) ![Portable Audio/Visual alarm](https://github.com/MikeStork/ProjektOIAK/blob/main/20240610_145329.webp)
 - Mobile app that enables diabetes patients to calculate required insulin units for them (reedition coming soon)
